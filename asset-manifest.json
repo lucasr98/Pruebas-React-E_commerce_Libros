@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Pruebas-React-E_commerce_Libros/static/css/main.6419087b.css",
+    "main.js": "/Pruebas-React-E_commerce_Libros/static/js/main.3afff871.js",
+    "static/js/787.5b5dfee8.chunk.js": "/Pruebas-React-E_commerce_Libros/static/js/787.5b5dfee8.chunk.js",
+    "static/media/carrusel3.jpg": "/Pruebas-React-E_commerce_Libros/static/media/carrusel3.f9b3d5a24f6650a16bc6.jpg",
+    "static/media/po.jpg": "/Pruebas-React-E_commerce_Libros/static/media/po.39fa5008c5a1c0a6412f.jpg",
+    "static/media/emmdld.jpg": "/Pruebas-React-E_commerce_Libros/static/media/emmdld.5cc5198ccfb8be686a17.jpg",
+    "static/media/ldlji.jpg": "/Pruebas-React-E_commerce_Libros/static/media/ldlji.cd22fad485e98e9b2a7d.jpg",
+    "static/media/lhdli.jpg": "/Pruebas-React-E_commerce_Libros/static/media/lhdli.12d5ed58545d38143808.jpg",
+    "static/media/f451.jpg": "/Pruebas-React-E_commerce_Libros/static/media/f451.66b11818e0195fedf4cc.jpg",
+    "static/media/carrusel2.jpg": "/Pruebas-React-E_commerce_Libros/static/media/carrusel2.39af8f95ef3f06d98b11.jpg",
+    "static/media/lldc.jpeg": "/Pruebas-React-E_commerce_Libros/static/media/lldc.74f089dd6bc9b2f28a07.jpeg",
+    "static/media/yr.jpg": "/Pruebas-React-E_commerce_Libros/static/media/yr.b84fa8845f2aebdc4acb.jpg",
+    "static/media/deumde.jpg": "/Pruebas-React-E_commerce_Libros/static/media/deumde.6a77e33b013856fdb588.jpg",
+    "static/media/edld.jpg": "/Pruebas-React-E_commerce_Libros/static/media/edld.caa98a755df077a1c64f.jpg",
+    "static/media/af.jpg": "/Pruebas-React-E_commerce_Libros/static/media/af.cc1454ecfa70f724e2c5.jpg",
+    "static/media/gits.jpg": "/Pruebas-React-E_commerce_Libros/static/media/gits.2b49f23276524e50945f.jpg",
+    "static/media/carrusel1.jpg": "/Pruebas-React-E_commerce_Libros/static/media/carrusel1.3156ed18f06484e2d9df.jpg",
+    "static/media/neuromante.jpg": "/Pruebas-React-E_commerce_Libros/static/media/neuromante.7de308c63da09de35bc4.jpg",
+    "static/media/logo.svg": "/Pruebas-React-E_commerce_Libros/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Pruebas-React-E_commerce_Libros/index.html",
+    "main.6419087b.css.map": "/Pruebas-React-E_commerce_Libros/static/css/main.6419087b.css.map",
+    "main.3afff871.js.map": "/Pruebas-React-E_commerce_Libros/static/js/main.3afff871.js.map",
+    "787.5b5dfee8.chunk.js.map": "/Pruebas-React-E_commerce_Libros/static/js/787.5b5dfee8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6419087b.css",
+    "static/js/main.3afff871.js"
+  ]
+}
