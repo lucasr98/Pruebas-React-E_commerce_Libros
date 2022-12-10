@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Pruebas-React-E_commerce_Libros/static/css/main.1dff8909.css",
-    "main.js": "/Pruebas-React-E_commerce_Libros/static/js/main.5dfe0ee1.js",
+    "main.css": "/Pruebas-React-E_commerce_Libros/static/css/main.1fcff1c7.css",
+    "main.js": "/Pruebas-React-E_commerce_Libros/static/js/main.34276f60.js",
     "static/js/787.5b5dfee8.chunk.js": "/Pruebas-React-E_commerce_Libros/static/js/787.5b5dfee8.chunk.js",
     "static/media/po.jpg": "/Pruebas-React-E_commerce_Libros/static/media/po.39fa5008c5a1c0a6412f.jpg",
     "static/media/emmdld.jpg": "/Pruebas-React-E_commerce_Libros/static/media/emmdld.5cc5198ccfb8be686a17.jpg",
@@ -20,12 +20,12 @@
     "static/media/neuromante.jpg": "/Pruebas-React-E_commerce_Libros/static/media/neuromante.7de308c63da09de35bc4.jpg",
     "static/media/logo.svg": "/Pruebas-React-E_commerce_Libros/static/media/logo.2da72656823f55c249ef7d4451ec4a78.svg",
     "index.html": "/Pruebas-React-E_commerce_Libros/index.html",
-    "main.1dff8909.css.map": "/Pruebas-React-E_commerce_Libros/static/css/main.1dff8909.css.map",
-    "main.5dfe0ee1.js.map": "/Pruebas-React-E_commerce_Libros/static/js/main.5dfe0ee1.js.map",
+    "main.1fcff1c7.css.map": "/Pruebas-React-E_commerce_Libros/static/css/main.1fcff1c7.css.map",
+    "main.34276f60.js.map": "/Pruebas-React-E_commerce_Libros/static/js/main.34276f60.js.map",
     "787.5b5dfee8.chunk.js.map": "/Pruebas-React-E_commerce_Libros/static/js/787.5b5dfee8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dff8909.css",
-    "static/js/main.5dfe0ee1.js"
+    "static/css/main.1fcff1c7.css",
+    "static/js/main.34276f60.js"
   ]
 }
